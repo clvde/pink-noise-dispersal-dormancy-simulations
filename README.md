@@ -11,3 +11,4 @@ Files:
 (5) colored_time_series_generator.R: contains functions for generating the patch quality values through time for different noise types (colors).
 (6) other_functions.R: older file - no longer relevant for the simulation loop. 
 
+  
